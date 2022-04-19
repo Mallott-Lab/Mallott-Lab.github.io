@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: Mallott Lab
+description: Mallott Lab website
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
