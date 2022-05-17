@@ -1,5 +1,21 @@
-title: Mallott Lab
-description: Microbial ecology and human health
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-midnight
+# Setup
+title:               Mallott Lab
+tagline:             'Microbial ecology and human health'
+description:         'Mallott Lab @ WUSTL'
+url:                 https://Mallott-Lab.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Liz Mallott
+  url:               https://twitter.com/liz_mallott
+  email:             e.mallott@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+google_analytics_id: G-P7MF9SK54F
