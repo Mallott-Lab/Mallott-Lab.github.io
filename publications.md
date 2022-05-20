@@ -5,6 +5,8 @@ title: Publications
 *Here's a link to Liz's up-to-date [Google Scholar profile](https://scholar.google.com/citations?user=lfXDRVcAAAAJ&hl=en)*  
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
+**In press.** EK Mallott, LH Skovmand, PA Garber, KR Amato. The fecal metabolome of black howler monkeys (*Alouatta pigra*) varies in response to seasonal dietary changes. *Molecular Ecology*.
+
 **2022.** AL Severson, BF Byrd, EK Mallott, AC Owings, M DeGiorgio, A de Flamingh, C Nijmeh, M Arellano, A Leventhal, N Rosenberg, RS Malhi. Ancient and modern genomics of the Ohlone Indigenous population of California. *Proceedings of the National Academy of Sciences* 119: e2111533119. [DOI: 10.1073/pnas.2111533119](https://doi.org/10.1073/pnas.2111533119).
 
 **2022.** EK Mallott, KR Amato. Butyrate-producing pathway abundances are similar in human and nonhuman primate gut microbiomes. *Molecular Biology and Evolution* 39: msab279. [DOI: 10.1093/molbev/msab279/](https://doi.org/10.1093/molbev/msab279).
@@ -31,24 +33,24 @@ title: Publications
 
 **2019.** A Gomez, A Sharma, EK Mallott, K Petrzelkova, CJ Robinson, C Teoman, F Carbonero, B Pafco, J Rothman, A Ulanov, K Vlckova, KR Amato, S Schnorr, NJ Dominy, D Modry, A Todd, M Torralba, K Nelson, M Burns, R Blekhman, M Remis, RM Stumpf, B Wilson, H Gaskins, PA Garber, B White, SR Leigh. Plasticity in the human gut microbiome defies evolutionary constraints. *mSystems* 4: e00271-19. [DOI: 10.1128/mSphere.00271-19](https://doi.org/10.1128/mSphere.00271-19).
 
-**2019.** PA Garber, EK Mallott, LM Porter,  A Gomez. The gut microbiome and metabolome of saddleback tamarins (Leontocebus weddelli): Insights into the foraging ecology of small-bodied primates. *American Journal of Primatology* 81: e23003. [DOI: 10.1002/ajp.23003](https://doi.org/10.1002/ajp.23003).
+**2019.** PA Garber, EK Mallott, LM Porter,  A Gomez. The gut microbiome and metabolome of saddleback tamarins (*Leontocebus weddelli*): Insights into the foraging ecology of small-bodied primates. *American Journal of Primatology* 81: e23003. [DOI: 10.1002/ajp.23003](https://doi.org/10.1002/ajp.23003).
 
-**2018.** EK Mallott, KR Amato. The microbial reproductive ecology of white-faced capuchins (Cebus capucinus). *American Journal of Primatology* 80: e22896. [DOI: 10.1002/ajp.22896](https://doi.org/10.1002/ajp.22896).
+**2018.** EK Mallott, KR Amato. The microbial reproductive ecology of white-faced capuchins (*Cebus capucinus*). *American Journal of Primatology* 80: e22896. [DOI: 10.1002/ajp.22896](https://doi.org/10.1002/ajp.22896).
 
-**2018.** EK Mallott, PA Garber, RS Malhi. trnL outperforms rbcL as a DNA metabarcoding marker when compared with the observed plant component of the diet of white-faced capuchins (Cebus capucinus, Primates). *PLoS One* 13: e0199556. DOI: 10.1371/journal.pone.0199556.
+**2018.** EK Mallott, PA Garber, RS Malhi. trnL outperforms rbcL as a DNA metabarcoding marker when compared with the observed plant component of the diet of white-faced capuchins (*Cebus capucinus*, Primates). *PLoS One* 13: e0199556. DOI: 10.1371/journal.pone.0199556.
 
-**2018.** EK Mallott, KR Amato, PA Garber, RS Malhi. Influence of fruit and invertebrate consumption on the gut microbiota of wild white-faced capuchins (Cebus capucinus). *American Journal of Physical Anthropology* 165: 576-588. [DOI: 10.1002/ajpa.23395](https://doi.org/10.1002/ajpa.23395).
+**2018.** EK Mallott, KR Amato, PA Garber, RS Malhi. Influence of fruit and invertebrate consumption on the gut microbiota of wild white-faced capuchins (*Cebus capucinus*). *American Journal of Physical Anthropology* 165: 576-588. [DOI: 10.1002/ajpa.23395](https://doi.org/10.1002/ajpa.23395).
 
 **2018.** J Lindo, M Rogers, EK Mallott, B Petzelt, J Mitchell, D Archer, RS Malhi, M DeGiorgio. Patterns of genetic coding variation in a Native American population before and after European contact. *American Journal of Human Genetics* 102: 806-815. [DOI: 10.1016/j.ajhg.2018.03.008](https://doi.org/10.1016/j.ajhg.2018.03.008).
 
 **2018.** A de Flamingh, EK Mallott, AL Roca, A Boraas, RS Malhi. Species identification and mitochondrial genomes of ancient fish bones from the Riverine Kachemack tradition of the Kenai Peninsula, Alaska. *Mitochondrial DNA Part B* 3: 409-411. [DOI: 10.1080/23802359.2018.1456371](https://doi.org/10.1080/23802359.2018.1456371).
 
-**2017.** EK Mallott, PA Garber, RS Malhi. Integrating feeding behavior, ecological data, and DNA barcoding to identify developmental differences in invertebrate foraging strategies in white-faced capuchins (Cebus capucinus). *American Journal of Physical Anthropology* 162: 241-254. [DOI: 10.1002/ajpa.23113](https://doi.org/10.1002/ajpa.23113).
+**2017.** EK Mallott, PA Garber, RS Malhi. Integrating feeding behavior, ecological data, and DNA barcoding to identify developmental differences in invertebrate foraging strategies in white-faced capuchins (*Cebus capucinus*). *American Journal of Physical Anthropology* 162: 241-254. [DOI: 10.1002/ajpa.23113](https://doi.org/10.1002/ajpa.23113).
 
 **2017.** JE Molto, O Loreille, EK Mallott, RS Malhi, S Fast, J Daniels-Higginbotham, C Marshall, R Parr. Complete mitochondrial genome sequencing of a burial from a Romano-Christian cemetery in the Dakhleh Oasis, Egypt. *Genes* 8: 262. [DOI: 10.3390/genes8100262](https://doi.org/10.3390/genes8100262).
 
 **2017.** G Figueiro, L Cabrera Pérez, J Lindo, EK Mallott, A Owings, RS Malhi, M Sans. Análisis del genoma mitocondrial de dos individuos inhumados en el sitio arqueológico CG14E01 “Isla Larga” (Rocha, Uruguay). *Revista Argentina de Antropología Biológica* 19: 1:17. [DOI: 10.17139/raab.2017.0019.01.06](https://doi.org/10.17139/raab.2017.0019.01.06).
 
-**2015.** EK Mallott, PA Garber, RS Malhi. High-throughput sequencing of fecal DNA to identify insects consumed by wild Weddell’s saddleback tamarins (Saguinus weddelli, Cebidae, Primates) in Boliva. *American Journal of Physical Anthropology* 156: 474-481. [DOI: 10.1002/ajpa.22654](https://doi.org/10.1002/ajpa.22654).
+**2015.** EK Mallott, PA Garber, RS Malhi. High-throughput sequencing of fecal DNA to identify insects consumed by wild Weddell’s saddleback tamarins (*Saguinus weddelli*, Cebidae, Primates) in Boliva. *American Journal of Physical Anthropology* 156: 474-481. [DOI: 10.1002/ajpa.22654](https://doi.org/10.1002/ajpa.22654).
 
-**2012.** PA Garber, A McKenney, EK Mallott. The ecology of trunk-to-trunk leaping in Saguinus fuscicollis: implications for understanding locomotor diversity in callitrichines. *Neotropical Primates* 12: 1-7. [DOI: 10.1896/044.019.0101](https://doi.org/10.1896/044.019.0101).
+**2012.** PA Garber, A McKenney, EK Mallott. The ecology of trunk-to-trunk leaping in *Saguinus fuscicollis*: implications for understanding locomotor diversity in callitrichines. *Neotropical Primates* 12: 1-7. [DOI: 10.1896/044.019.0101](https://doi.org/10.1896/044.019.0101).
