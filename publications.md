@@ -37,7 +37,7 @@ title: Publications
 
 **2018.** EK Mallott, KR Amato. The microbial reproductive ecology of white-faced capuchins (*Cebus capucinus*). *American Journal of Primatology* 80: e22896. [DOI: 10.1002/ajp.22896](https://doi.org/10.1002/ajp.22896).
 
-**2018.** EK Mallott, PA Garber, RS Malhi. trnL outperforms rbcL as a DNA metabarcoding marker when compared with the observed plant component of the diet of white-faced capuchins (*Cebus capucinus*, Primates). *PLoS One* 13: e0199556. DOI: 10.1371/journal.pone.0199556.
+**2018.** EK Mallott, PA Garber, RS Malhi. trnL outperforms rbcL as a DNA metabarcoding marker when compared with the observed plant component of the diet of white-faced capuchins (*Cebus capucinus*, Primates). *PLoS One* 13: e0199556. [DOI: 10.1371/journal.pone.0199556](https://doi.org/10.1371/journal.pone.0199556).
 
 **2018.** EK Mallott, KR Amato, PA Garber, RS Malhi. Influence of fruit and invertebrate consumption on the gut microbiota of wild white-faced capuchins (*Cebus capucinus*). *American Journal of Physical Anthropology* 165: 576-588. [DOI: 10.1002/ajpa.23395](https://doi.org/10.1002/ajpa.23395).
 
