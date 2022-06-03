@@ -7,21 +7,21 @@ title: Publications
 
 ### In press
 
-T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? *American Journal of Biological Anthropology*
-
 EK Mallott, LH Skovmand, PA Garber, KR Amato. The fecal metabolome of black howler monkeys (*Alouatta pigra*) varies in response to seasonal dietary changes. *Molecular Ecology*.
+
+T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? *American Journal of Biological Anthropology*.
 
 ### 2022
 
-AL Severson, BF Byrd, EK Mallott, AC Owings, M DeGiorgio, A de Flamingh, C Nijmeh, M Arellano, A Leventhal, N Rosenberg, RS Malhi. Ancient and modern genomics of the Ohlone Indigenous population of California. *Proceedings of the National Academy of Sciences* 119: e2111533119. [DOI: 10.1073/pnas.2111533119](https://doi.org/10.1073/pnas.2111533119).
-
 EK Mallott, KR Amato. Butyrate-producing pathway abundances are similar in human and nonhuman primate gut microbiomes. *Molecular Biology and Evolution* 39: msab279. [DOI: 10.1093/molbev/msab279/](https://doi.org/10.1093/molbev/msab279).
+
+AL Severson, BF Byrd, EK Mallott, AC Owings, M DeGiorgio, A de Flamingh, C Nijmeh, M Arellano, A Leventhal, N Rosenberg, RS Malhi. Ancient and modern genomics of the Ohlone Indigenous population of California. *Proceedings of the National Academy of Sciences* 119: e2111533119. [DOI: 10.1073/pnas.2111533119](https://doi.org/10.1073/pnas.2111533119).
 
 ### 2021
 
 EK Mallott, KR Amato. Host specificity of the gut microbiome. *Nature Reviews Microbiology* 19: 639-653. [DOI: 10.1038/s41579-021-00562-3](https://doi.org/10.1038/s41579-021-00562-3).
 
-R Martínez-Mota, N Righini, EK Mallott, T Gillespie, KR Amato. The relationship between pinworm (Trypanoxyuris) infection and gut bacteria in wild black howler monkeys (Alouatta pigra). *American Journal of Primatology.* [DOI: 10.1002/ajp.23330](https://doi.org/10.1002/ajp.23330).
+R Martínez-Mota, N Righini, EK Mallott, T Gillespie, KR Amato. The relationship between pinworm (Trypanoxyuris) infection and gut bacteria in wild black howler monkeys (Alouatta pigra). *American Journal of Primatology* 83: e23330. [DOI: 10.1002/ajp.23330](https://doi.org/10.1002/ajp.23330).
 
 KR Amato, EK Mallott, P Maia, ML Savo Sardaro. Pre-digestion as an evolutionary impetus for human fermented food use. *Current Anthropology* 62: S207-S219. [DOI: 10.1086/715238](https://doi.org/10.1086/715238).
 
