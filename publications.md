@@ -7,11 +7,13 @@ title: Publications
 
 ### In press
 
-EK Mallott, LH Skovmand, PA Garber, KR Amato. The fecal metabolome of black howler monkeys (*Alouatta pigra*) varies in response to seasonal dietary changes. *Molecular Ecology*.
-
-T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? *American Journal of Biological Anthropology*.
+R Martínez-Mota, N Righini, EK Mallott, R Palme, KR Amato. Environmental stress and the primate microbiome: Glucocorticoids contribute to structure gut bacterial communities of black howler monkeys in anthropogenically disturbed forest fragments. *Frontiers in Ecology and Evolution*.
 
 ### 2022
+
+EK Mallott, LH Skovmand, PA Garber, KR Amato. The faecal metabolome of black howler monkeys (*Alouatta pigra*) varies in response to seasonal dietary changes. *Molecular Ecology*. [DOI: 10.1111/mec.16559/](https://doi.org/10.1111/mec.16559).
+
+T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? *American Journal of Biological Anthropology*. [DOI: 10.1002/ajpa.24574/](https://doi.org/10.1002/ajpa.24574).
 
 EK Mallott, KR Amato. Butyrate-producing pathway abundances are similar in human and nonhuman primate gut microbiomes. *Molecular Biology and Evolution* 39: msab279. [DOI: 10.1093/molbev/msab279/](https://doi.org/10.1093/molbev/msab279).
 
