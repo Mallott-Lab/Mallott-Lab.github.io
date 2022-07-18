@@ -2,14 +2,16 @@
 layout: page
 title: Publications
 ---
-*Here's a link to Liz's up-to-date [Google Scholar profile](https://scholar.google.com/citations?user=lfXDRVcAAAAJ&hl=en)*  
+*Here's a link to Liz's [Google Scholar profile](https://scholar.google.com/citations?user=lfXDRVcAAAAJ&hl=en)*  
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
 ### In press
 
-R Martínez-Mota, N Righini, EK Mallott, R Palme, KR Amato. Environmental stress and the primate microbiome: Glucocorticoids contribute to structure gut bacterial communities of black howler monkeys in anthropogenically disturbed forest fragments. *Frontiers in Ecology and Evolution*.
+J Li†, RHG Markowitz†, AW Brooks†, EK Mallott†, BA Leigh, T Olszewski, H Zare, M Bagheri, HM Smith, KA Friese, I Habibi, WM Lawrence, CL Rost, A Lédeczi, AM Eeds, JF Ferguson, HJ Silver, SR Bordenstein. Ethnicity dominates a short-term dietary intervention in shaping microbiomes and viromes. *PLoS Biology*. †Equal contribution
 
 ### 2022
+
+R Martínez-Mota, N Righini, EK Mallott, R Palme, KR Amato. Environmental stress and the primate microbiome: Glucocorticoids contribute to structure gut bacterial communities of black howler monkeys in anthropogenically disturbed forest fragments. *Frontiers in Ecology and Evolution*. 10: 863242. [DOI: 10.3389/fevo.2022.863242](https://doi.org/10.3389/fevo.2022.863242).
 
 EK Mallott, LH Skovmand, PA Garber, KR Amato. The faecal metabolome of black howler monkeys (*Alouatta pigra*) varies in response to seasonal dietary changes. *Molecular Ecology*. [DOI: 10.1111/mec.16559/](https://doi.org/10.1111/mec.16559).
 
@@ -71,7 +73,7 @@ G Figueiro, L Cabrera Pérez, J Lindo, EK Mallott, A Owings, RS Malhi, M Sans. A
 
 ### 2015
 
-EK Mallott, PA Garber, RS Malhi. High-throughput sequencing of fecal DNA to identify insects consumed by wild Weddell’s saddleback tamarins (*Saguinus weddelli*, Cebidae, Primates) in Boliva. *American Journal of Physical Anthropology* 156: 474-481. [DOI: 10.1002/ajpa.22654](https://doi.org/10.1002/ajpa.22654).
+EK Mallott, PA Garber, RS Malhi. High-throughput sequencing of fecal DNA to identify insects consumed by wild Weddell’s saddleback tamarins (*Saguinus weddelli*, Cebidae, Primates) in Bolivia. *American Journal of Physical Anthropology* 156: 474-481. [DOI: 10.1002/ajpa.22654](https://doi.org/10.1002/ajpa.22654).
 
 ### 2012
 
