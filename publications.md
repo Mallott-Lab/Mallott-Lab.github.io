@@ -5,11 +5,9 @@ title: Publications
 *Here's a link to Liz's [Google Scholar profile](https://scholar.google.com/citations?user=lfXDRVcAAAAJ&hl=en)*  
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
-### In press
-
-J Li†, RHG Markowitz†, AW Brooks†, EK Mallott†, BA Leigh, T Olszewski, H Zare, M Bagheri, HM Smith, KA Friese, I Habibi, WM Lawrence, CL Rost, A Lédeczi, AM Eeds, JF Ferguson, HJ Silver, SR Bordenstein. Ethnicity dominates a short-term dietary intervention in shaping microbiomes and viromes. *PLoS Biology*. †Equal contribution
-
 ### 2022
+
+J Li†, RHG Markowitz†, AW Brooks†, EK Mallott†, BA Leigh, T Olszewski, H Zare, M Bagheri, HM Smith, KA Friese, I Habibi, WM Lawrence, CL Rost, A Lédeczi, AM Eeds, JF Ferguson, HJ Silver, SR Bordenstein. Ethnicity dominates a short-term dietary intervention in shaping microbiomes and viromes. *PLoS Biology* 20: e3001758. [DOI: 10.1371/journal.pbio.3001758/](https://doi.org/10.1371/journal.pbio.3001758). †Equal contribution
 
 R Martínez-Mota, N Righini, EK Mallott, R Palme, KR Amato. Environmental stress and the primate microbiome: Glucocorticoids contribute to structure gut bacterial communities of black howler monkeys in anthropogenically disturbed forest fragments. *Frontiers in Ecology and Evolution*. 10: 863242. [DOI: 10.3389/fevo.2022.863242](https://doi.org/10.3389/fevo.2022.863242).
 
