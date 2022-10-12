@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: 
 ---
 
 Welcome to the Mallott Lab @WUSTL! We are just getting started, so this website is rather bare bones for now. Check back for more information soon!
