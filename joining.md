@@ -16,6 +16,7 @@ Prospective graduate students should apply to one of WashU's Division of Biology
 
 ### Prospective Postdoctoral Scientists
 
-Open funded postdoc positions will be advertised here and elsewhere when they are available. *I am not currently recruiting postdocs for funded positions.*
+Open funded postdoc positions will be advertised here and elsewhere when they are available.
+*I am not currently recruiting postdocs for funded positions.*
 
 I am happy to discuss applying for fellowship opportunities with prospective postdocs. Please email Liz with your CV, a brief statement of the proposed research, and details about the fellowship application (name, link to the opportunity, due dates).
