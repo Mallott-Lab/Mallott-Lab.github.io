@@ -7,11 +7,13 @@ title: Publications
 
 ### 2022
 
+EK Mallott. Individualized composition or community dynamics? A new statistical approach to assess the individuality of host-associated microbiomes. *Proceedings of the Royal Society B* 289: 20221794. [DOI: 10.1098/rspb.2022.1794](https://doi.org/10.1098/rspb.2022.1794).
+
 J Li†, RHG Markowitz†, AW Brooks†, EK Mallott†, BA Leigh, T Olszewski, H Zare, M Bagheri, HM Smith, KA Friese, I Habibi, WM Lawrence, CL Rost, A Lédeczi, AM Eeds, JF Ferguson, HJ Silver, SR Bordenstein. Ethnicity dominates a short-term dietary intervention in shaping microbiomes and viromes. *PLoS Biology* 20: e3001758. [DOI: 10.1371/journal.pbio.3001758/](https://doi.org/10.1371/journal.pbio.3001758). †Equal contribution
 
 R Martínez-Mota, N Righini, EK Mallott, R Palme, KR Amato. Environmental stress and the primate microbiome: Glucocorticoids contribute to structure gut bacterial communities of black howler monkeys in anthropogenically disturbed forest fragments. *Frontiers in Ecology and Evolution*. 10: 863242. [DOI: 10.3389/fevo.2022.863242](https://doi.org/10.3389/fevo.2022.863242).
 
-EK Mallott, LH Skovmand, PA Garber, KR Amato. The faecal metabolome of black howler monkeys (*Alouatta pigra*) varies in response to seasonal dietary changes. *Molecular Ecology*. [DOI: 10.1111/mec.16559/](https://doi.org/10.1111/mec.16559).
+EK Mallott, LH Skovmand, PA Garber, KR Amato. The faecal metabolome of black howler monkeys (*Alouatta pigra*) varies in response to seasonal dietary changes. *Molecular Ecology* 31: 4146-4161. [DOI: 10.1111/mec.16559/](https://doi.org/10.1111/mec.16559).
 
 T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? *American Journal of Biological Anthropology*. [DOI: 10.1002/ajpa.24574/](https://doi.org/10.1002/ajpa.24574).
 
