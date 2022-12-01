@@ -28,7 +28,7 @@ We are currently generating gut metagenomes from Phayre's leaf monkeys to examin
 ## How has the metabolic function of the gut microbiome changed across primate evolution?
 The gut microbiome of humans is distinct from that of other primates [5]. As human diets have diverged from those of other primates, the metabolic functions of the gut microbiome may also have shifted. In particular, we are interested in short chain fatty acid (SCFA) metabolism. SCFAs are produced by bacteria in the gut and can be used by the host for energy. Previous computational work in the lab showed that butyrate production potential does not differ markedly between humans and nonhuman primates, but that the pathway abundance does differ between humans in industrialized vs. nonindustrialized environments [6].  
 
-<img src="/images/Figure3.jpg" alt="Multiple box plots showing differences in butyrate pathway abundance across primates and within humans" width="600">
+<img src="/images/Figure3.jpg" alt="Multiple box plots showing differences in butyrate pathway abundance across primates and within humans" width="700">
 
 *Butyrate pathway abundance differs across humans, but not between humans and other primates [5]*
 
