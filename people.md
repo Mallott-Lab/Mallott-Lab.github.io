@@ -10,4 +10,4 @@ Liz is interested in understanding host-associated microbiome variation within a
 mallott (at) wustl (dot) edu
 | [CV](https://github.com/Mallott-Lab/Mallott-Lab.github.io/data/CV-Mallott.pdf)
 | [GitHub](https://github.com/emallott)
-| [Twitter](https://twitter.com/liz_mallott)
+| [Mastodon](<a rel="me" href="https://mstdn.science/@lizmallott">https://mstdn.science/@lizmallott</a>)
