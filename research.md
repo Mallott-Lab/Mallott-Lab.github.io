@@ -13,9 +13,9 @@ Neglected tropical diseases were common in the southern United States well into 
 ## Do changes to the gut microbiome during pregnancy and lactation influence female nutrition?
 The gut microbiome compensates for nutritional shortfalls in nonhuman primates [2] and may be one strategy for buffering the energetic stress of pregnancy and lactation in female primates. Our work has shown that the composition of the gut microbiome differs across reproductive states in white-faced capuchins (*Cebus imitator*) [3], and that progesterone may be mediating interactions between reproductive state and the gut microbiome in Phayre's leaf monkeys (*Trachypithecus phayrei*) [4].
 
-|<img src="/images/microbe_comp_repro_af_nochloro.jpg" alt="Stacked bar chart showing the differences in the relative abundance of phyla of bacteria between cycling, pregnant, and lactating females" width=350>|
-|:--|
-|*Gut microbiome composition across reproduction [3]*|
+<img src="/images/microbe_comp_repro_af_nochloro.jpg" alt="Stacked bar chart showing the differences in the relative abundance of phyla of bacteria between cycling, pregnant, and lactating females" width=350>
+
+*Gut microbiome composition across reproduction [3]*
 
 We are currently generating gut metagenomes from Phayre's leaf monkeys to examine finescale variation in function across reproduction to help determine if the compositional changes are increasing microbially-derived energy available to the host.
 
