@@ -10,7 +10,7 @@ Liz is interested in understanding host-associated microbiome variation within a
 mallott (at) wustl (dot) edu
 | [CV](https://github.com/Mallott-Lab/Mallott-Lab.github.io/blob/main/data/CV-Mallott.pdf)
 | [GitHub](https://github.com/emallott)
-| <a rel="me" href="https://mstdn.science/@lizmallott">Mastodon</a>
+| <a rel="me" href="https://ecoevo.social/@lizmallott">Mastodon</a>
 
 ### Kaylaa Betts
 
