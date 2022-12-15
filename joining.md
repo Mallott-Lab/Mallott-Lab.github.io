@@ -16,6 +16,8 @@ Prospective graduate students should apply to one of WashU's Division of Biology
 
 ### Prospective Postdoctoral Scientists
 
-I am currently recruiting a postdoc focusing on nonhuman primate microbiomes (though there will be opportunities to also gain experience with human gut microbiomes). Please email me (mallott (at) wustl (dot) edu) with your CV, a cover letter detailing research interests and goals, and names and contact information for three references. Additional details about the position can be found [here](https://wustl.wd1.myworkdayjobs.com/en-US/External/details/Postdoctoral-Research-Associate---Arts---Sciences_JR71608?q=JR71608). I will begin reviewing applications on Jan 31st.
+I am currently recruiting a postdoc focusing on nonhuman primate microbiomes (though there will be opportunities to also gain experience with human gut microbiomes). Please email me (mallott (at) wustl (dot) edu) with your CV, a cover letter detailing research interests and goals, and names and contact information for three references. Additional details about the position can be found [here](https://wustl.wd1.myworkdayjobs.com/en-US/External/details/Postdoctoral-Research-Associate---Arts---Sciences_JR71608?q=JR71608). 
+Proficiency in one or more of the following skills is preferred - general molecular and/or microbiological techniques, coding in R or Python, or analyzing sequencing data in a high-performance computing environment. In addition, experience with rt-qPCR, metagenomic library construction, in vitro fermentation, anaerobic culturing, analyzing microbiome data, and/or wild animal data collection and analysis is desirable.
+I will begin reviewing applications on Jan 31st.
 
 I am also happy to discuss applying for fellowship opportunities with prospective postdocs. Please email me with your CV, a brief statement of the proposed research, and details about the fellowship application (name, link to the opportunity, due dates).
