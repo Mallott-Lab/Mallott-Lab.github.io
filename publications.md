@@ -7,6 +7,8 @@ title: Publications
 
 ### 2022
 
+O Chioma, EK Mallott, L Hesse, A Chapman, JC Van Amburg, H Wu, B Shah-Gandhi, N Dey, M Kirkland, M Byndloss, MB Piazuelo, J Johnson, GR Bernard, SR Bodduluri, S Davison, H Bodduluri, SR Bordenstein, W Drake. Gut microbiota modulates lung fibrosis severity following acute lung injury in mice. Communications Biology 5: 1401. [DOI: 10.1038/s42003-022-04357-x](https://doi.org/10.1038/s42003-022-04357-x).
+
 EK Mallott. Individualized composition or community dynamics? A new statistical approach to assess the individuality of host-associated microbiomes. *Proceedings of the Royal Society B* 289: 20221794. [DOI: 10.1098/rspb.2022.1794](https://doi.org/10.1098/rspb.2022.1794).
 
 J Li†, RHG Markowitz†, AW Brooks†, EK Mallott†, BA Leigh, T Olszewski, H Zare, M Bagheri, HM Smith, KA Friese, I Habibi, WM Lawrence, CL Rost, A Lédeczi, AM Eeds, JF Ferguson, HJ Silver, SR Bordenstein. Ethnicity dominates a short-term dietary intervention in shaping microbiomes and viromes. *PLoS Biology* 20: e3001758. [DOI: 10.1371/journal.pbio.3001758/](https://doi.org/10.1371/journal.pbio.3001758). †Equal contribution
