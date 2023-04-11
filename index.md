@@ -2,7 +2,7 @@
 layout: page
 title: 
 ---
-<img src="HorizontalColorGradient.png" alt="Mallott Lab logo">
+<img src="/images/HorizontalColorGradient.png" alt="Mallott Lab logo">
 
 Welcome to the Mallott Lab @WUSTL! 
 
