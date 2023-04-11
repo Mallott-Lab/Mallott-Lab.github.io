@@ -5,9 +5,14 @@ title: Publications
 *Here's a link to Liz's [Google Scholar profile](https://scholar.google.com/citations?user=lfXDRVcAAAAJ&hl=en)*  
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
+### 2023
+O Chioma, EK Mallott, B Shah-Gandhi, Z Wiggins, M Langford, A Lancaster, A Gelbard, H Wu, JE Johnson, WR Mason, L Lancaster, EM Wilfong, LJ Crofford, CG Montgomery, L Van Kaer, SR Bordenstein, DC Newcomb, WP Drake. Low gut microbial diversity augments estrogen-mediated pulmonary fibrosis in female-predominant interstitial lung disease. *Cells* 12: 766. [DOI: 10.3390/cells12050766](https:doi.org/10.3390/cells12050766).
+
+TJ Cepon-Robins, EK Mallott, IC Recca, TE Gildner. Evidence and effects of neglected parasitic infections among a small preliminary sample of children from rural Mississippi. *American Journal of Human Biology*. [DOI: 10.1002/ajhb.23889](https://doi.org/10.1002/ajhb.23889).
+
 ### 2022
 
-O Chioma, EK Mallott, L Hesse, A Chapman, JC Van Amburg, H Wu, B Shah-Gandhi, N Dey, M Kirkland, M Byndloss, MB Piazuelo, J Johnson, GR Bernard, SR Bodduluri, S Davison, H Bodduluri, SR Bordenstein, W Drake. Gut microbiota modulates lung fibrosis severity following acute lung injury in mice. Communications Biology 5: 1401. [DOI: 10.1038/s42003-022-04357-x](https://doi.org/10.1038/s42003-022-04357-x).
+O Chioma, EK Mallott, L Hesse, A Chapman, JC Van Amburg, H Wu, B Shah-Gandhi, N Dey, M Kirkland, M Byndloss, MB Piazuelo, J Johnson, GR Bernard, SR Bodduluri, S Davison, H Bodduluri, SR Bordenstein, W Drake. Gut microbiota modulates lung fibrosis severity following acute lung injury in mice. *Communications Biology* 5: 1401. [DOI: 10.1038/s42003-022-04357-x](https://doi.org/10.1038/s42003-022-04357-x).
 
 EK Mallott. Individualized composition or community dynamics? A new statistical approach to assess the individuality of host-associated microbiomes. *Proceedings of the Royal Society B* 289: 20221794. [DOI: 10.1098/rspb.2022.1794](https://doi.org/10.1098/rspb.2022.1794).
 
