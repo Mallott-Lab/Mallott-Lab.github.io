@@ -19,3 +19,6 @@ Kaylaa is a first-year majoring in biology and chemistry. While she has always b
 
 
 ### Jennifer Ong
+
+
+### Kiersten Grathwohl
