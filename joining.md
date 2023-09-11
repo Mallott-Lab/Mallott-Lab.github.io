@@ -4,7 +4,7 @@ title: Join the lab!
 ---
 Thank you for your interest in joining the lab!
 
-<img src="/images/IMG_4580.jpg" alt="Current Mallott Lab picture" width=350 style="float:center; padding: 10px 10px 10px 10px">
+<img src="/images/IMG_4580.jpeg" alt="Current Mallott Lab picture" width=350 style="float:center; padding: 10px 10px 10px 10px">
 
 ### Prospective Undergraduate Students
 
