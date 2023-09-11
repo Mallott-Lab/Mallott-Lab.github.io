@@ -6,7 +6,9 @@ title: Publications
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
 ### 2023
-O Chioma, EK Mallott, B Shah-Gandhi, Z Wiggins, M Langford, A Lancaster, A Gelbard, H Wu, JE Johnson, WR Mason, L Lancaster, EM Wilfong, LJ Crofford, CG Montgomery, L Van Kaer, SR Bordenstein, DC Newcomb, WP Drake. Low gut microbial diversity augments estrogen-mediated pulmonary fibrosis in female-predominant interstitial lung disease. *Cells* 12: 766. [DOI: 10.3390/cells12050766](https:doi.org/10.3390/cells12050766).
+EK Mallott, AR Sitarik, LD Leve, C Cioffi, CA Camargo Jr, K Hosegawa, SR Bordenstein. Human microbiome variation associated with race and ehtnicity emerges as early as 3 months of age. *PLoS Biology* 21: e3002230. [DOI: 10.1371/journal.pbio.3002230](https://doi.org/10.1371/journal.pbio.3002230)
+
+O Chioma, EK Mallott, B Shah-Gandhi, Z Wiggins, M Langford, A Lancaster, A Gelbard, H Wu, JE Johnson, WR Mason, L Lancaster, EM Wilfong, LJ Crofford, CG Montgomery, L Van Kaer, SR Bordenstein, DC Newcomb, WP Drake. Low gut microbial diversity augments estrogen-mediated pulmonary fibrosis in female-predominant interstitial lung disease. *Cells* 12: 766. [DOI: 10.3390/cells12050766](https://doi.org/10.3390/cells12050766).
 
 TJ Cepon-Robins, EK Mallott, IC Recca, TE Gildner. Evidence and effects of neglected parasitic infections among a small preliminary sample of children from rural Mississippi. *American Journal of Human Biology*. [DOI: 10.1002/ajhb.23889](https://doi.org/10.1002/ajhb.23889).
 

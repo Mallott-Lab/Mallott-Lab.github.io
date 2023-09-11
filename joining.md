@@ -4,6 +4,8 @@ title: Join the lab!
 ---
 Thank you for your interest in joining the lab!
 
+<img src="/images/IMG_4580.jpg" alt="Current Mallott Lab picture" width=350 style="float:center; padding: 10px 10px 10px 10px">
+
 ### Prospective Undergraduate Students
 
 Please email Liz with your resume, a list of courses you have taken, and a brief (less than one page) description of your interests (what interests you about research in the Mallott Lab?).
