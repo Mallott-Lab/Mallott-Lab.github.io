@@ -6,7 +6,9 @@ title: Publications
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
 ### 2023
-EK Mallott, AR Sitarik, LD Leve, C Cioffi, CA Camargo Jr, K Hosegawa, SR Bordenstein. Human microbiome variation associated with race and ehtnicity emerges as early as 3 months of age. *PLoS Biology* 21: e3002230. [DOI: 10.1371/journal.pbio.3002230](https://doi.org/10.1371/journal.pbio.3002230)
+EK Mallott. Disentangling the mechanisms underlying phylosymbiosis in mammals. *Molecular Ecology* [DOI: 10.1111/mec.17193](https://doi.org/10.1111/mec.17193).
+
+EK Mallott, AR Sitarik, LD Leve, C Cioffi, CA Camargo Jr, K Hosegawa, SR Bordenstein. Human microbiome variation associated with race and ehtnicity emerges as early as 3 months of age. *PLoS Biology* 21: e3002230. [DOI: 10.1371/journal.pbio.3002230](https://doi.org/10.1371/journal.pbio.3002230).
 
 O Chioma, EK Mallott, B Shah-Gandhi, Z Wiggins, M Langford, A Lancaster, A Gelbard, H Wu, JE Johnson, WR Mason, L Lancaster, EM Wilfong, LJ Crofford, CG Montgomery, L Van Kaer, SR Bordenstein, DC Newcomb, WP Drake. Low gut microbial diversity augments estrogen-mediated pulmonary fibrosis in female-predominant interstitial lung disease. *Cells* 12: 766. [DOI: 10.3390/cells12050766](https://doi.org/10.3390/cells12050766).
 
