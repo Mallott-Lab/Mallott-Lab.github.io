@@ -29,3 +29,7 @@ mallott (at) wustl (dot) edu
 ### Shan Wang (Undergraduate Researcher)
 <img src="/images/IMG_1626.jpeg" alt="Picture of Shan Wang" width=350 style="float:left; padding: 10px 10px 50px 0px">
 Shan is a senior double majoring in Global Studies and Biology. They are interested in understanding the gut microbiome as a mediator between structural inequality and human health, as well as incorporating environmental interventions into community healthcare. In the lab, Shan is investigating the association between flood exposure, fecal microbiome diversity, and host immune response as part of the REACH study. In their free time, they enjoy running, baking, and chess.
+
+## Lab Alumni
+
+Kaylaa Betts (Undergraduate Researcher, 2022-2023)

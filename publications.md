@@ -12,7 +12,7 @@ EK Mallott, AR Sitarik, LD Leve, C Cioffi, CA Camargo Jr, K Hosegawa, SR Bordens
 
 O Chioma, EK Mallott, B Shah-Gandhi, Z Wiggins, M Langford, A Lancaster, A Gelbard, H Wu, JE Johnson, WR Mason, L Lancaster, EM Wilfong, LJ Crofford, CG Montgomery, L Van Kaer, SR Bordenstein, DC Newcomb, WP Drake. Low gut microbial diversity augments estrogen-mediated pulmonary fibrosis in female-predominant interstitial lung disease. *Cells* 12: 766. [DOI: 10.3390/cells12050766](https://doi.org/10.3390/cells12050766).
 
-TJ Cepon-Robins, EK Mallott, IC Recca, TE Gildner. Evidence and effects of neglected parasitic infections among a small preliminary sample of children from rural Mississippi. *American Journal of Human Biology*. [DOI: 10.1002/ajhb.23889](https://doi.org/10.1002/ajhb.23889).
+TJ Cepon-Robins, EK Mallott, IC Recca, TE Gildner. Evidence and effects of neglected parasitic infections among a small preliminary sample of children from rural Mississippi. *American Journal of Human Biology* 35: e23889. [DOI: 10.1002/ajhb.23889](https://doi.org/10.1002/ajhb.23889).
 
 ### 2022
 
@@ -26,7 +26,7 @@ R Martínez-Mota, N Righini, EK Mallott, R Palme, KR Amato. Environmental stress
 
 EK Mallott, LH Skovmand, PA Garber, KR Amato. The faecal metabolome of black howler monkeys (*Alouatta pigra*) varies in response to seasonal dietary changes. *Molecular Ecology* 31: 4146-4161. [DOI: 10.1111/mec.16559/](https://doi.org/10.1111/mec.16559).
 
-T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? *American Journal of Biological Anthropology*. [DOI: 10.1002/ajpa.24574/](https://doi.org/10.1002/ajpa.24574).
+T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? *American Journal of Biological Anthropology* 182: 606-619. [DOI: 10.1002/ajpa.24574/](https://doi.org/10.1002/ajpa.24574).
 
 EK Mallott, KR Amato. Butyrate-producing pathway abundances are similar in human and nonhuman primate gut microbiomes. *Molecular Biology and Evolution* 39: msab279. [DOI: 10.1093/molbev/msab279/](https://doi.org/10.1093/molbev/msab279).
 
