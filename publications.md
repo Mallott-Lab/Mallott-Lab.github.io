@@ -6,6 +6,8 @@ title: Publications
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
 ### 2023
+P Pradhan, EK Mallott, W Shirola, AL Lu, KR Amato. Host-gut microbiota interactions during pregnancy. *Evolution, Medicine, and Public Health* In press.
+
 EK Mallott. Disentangling the mechanisms underlying phylosymbiosis in mammals. *Molecular Ecology* [DOI: 10.1111/mec.17193](https://doi.org/10.1111/mec.17193).
 
 EK Mallott, AR Sitarik, LD Leve, C Cioffi, CA Camargo Jr, K Hosegawa, SR Bordenstein. Human microbiome variation associated with race and ehtnicity emerges as early as 3 months of age. *PLoS Biology* 21: e3002230. [DOI: 10.1371/journal.pbio.3002230](https://doi.org/10.1371/journal.pbio.3002230).
