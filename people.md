@@ -11,8 +11,8 @@ Carlye Chaney is an NSF SBE Postdoctoral Fellow in the Mallott Laboratory, where
 ### Dr. Benjamin Gombash (Postdoctoral Research Associate)
 <img src="/images/IMG_3733.jpg" alt="Picture of Ben Gombash watching a long-tailed macaque" width=350 style="float:left; padding: 10px 10px 50px 0px">Benjamin Gombash is a Postdoctoral Research Associate in the Mallott Lab where he is investigating nonhuman primate microbiomes. Ben has bachelor’s degrees in Anthropology and Wildlife Science from the Ohio State University (2012), a master’s in Primate Behavior from Central Washington University (2016), a master’s in Applied and Computation, Mathematics and Statistics (2022) and a PhD in Biology (2023) from the University of Notre Dame. Ben’s PhD research was focused on the microbiomes of long-tailed macaques and how they are impacted by anthropogenic changes to the host’s diet and external environment. In his free time Ben enjoys reading, hiking, and playing boardgames with friends.
 
-
 ### Kiersten Grathwohl (Lab Manager)
+
 <img src="/images/Grathwohl_Kiersten.jpg" alt="Professional headshot of Kiersten Grathwohl" width=350 style="float:left; padding: 10px 10px 50px 0px">
 Kiersten is the Lab Manager for the Mallott Lab. She majored in Animal Science at the University of Illinois at Urbana-Champaign (2018) and has a Master’s degree in Biology from Murray State University (2020). While in school, she completed research projects on anthropogenic disturbance effects on mantled howler monkeys, and completed her thesis research on the effect of invasive species on the stress response in native, freshwater mussels. In the lab, Kiersten maintains lab organization and assists with different research projects. In her free time, she enjoys reading, hiking, and finding new recipes to cook.
 
