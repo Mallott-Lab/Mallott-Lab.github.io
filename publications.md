@@ -5,11 +5,12 @@ title: Publications
 *Here's a link to Liz's [Google Scholar profile](https://scholar.google.com/citations?user=lfXDRVcAAAAJ&hl=en)*  
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
+### 2024
+P Pradhan, EK Mallott, W Shirola, AL Lu, KR Amato. Host-gut microbiota interactions during pregnancy. *Evolution, Medicine, and Public Health* 12: 7-23. [DOI: 10.1093/emph/eoac001](https://doi.org/10.1093/emph/eoac001).
+
+EK Mallott. Disentangling the mechanisms underlying phylosymbiosis in mammals. *Molecular Ecology* 33: e17193 [DOI: 10.1111/mec.17193](https://doi.org/10.1111/mec.17193).
+
 ### 2023
-P Pradhan, EK Mallott, W Shirola, AL Lu, KR Amato. Host-gut microbiota interactions during pregnancy. *Evolution, Medicine, and Public Health* In press.
-
-EK Mallott. Disentangling the mechanisms underlying phylosymbiosis in mammals. *Molecular Ecology* [DOI: 10.1111/mec.17193](https://doi.org/10.1111/mec.17193).
-
 EK Mallott, AR Sitarik, LD Leve, C Cioffi, CA Camargo Jr, K Hosegawa, SR Bordenstein. Human microbiome variation associated with race and ehtnicity emerges as early as 3 months of age. *PLoS Biology* 21: e3002230. [DOI: 10.1371/journal.pbio.3002230](https://doi.org/10.1371/journal.pbio.3002230).
 
 O Chioma, EK Mallott, B Shah-Gandhi, Z Wiggins, M Langford, A Lancaster, A Gelbard, H Wu, JE Johnson, WR Mason, L Lancaster, EM Wilfong, LJ Crofford, CG Montgomery, L Van Kaer, SR Bordenstein, DC Newcomb, WP Drake. Low gut microbial diversity augments estrogen-mediated pulmonary fibrosis in female-predominant interstitial lung disease. *Cells* 12: 766. [DOI: 10.3390/cells12050766](https://doi.org/10.3390/cells12050766).
