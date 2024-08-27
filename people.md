@@ -5,7 +5,7 @@ title: People
 ## Current Members
 
 ### Juliet Ainsley (Undergraduate Researcher)
-<img src="/images/Headshot- Juliet Ainsley.jpeg" alt="Professional headshot of Juliet Ainsley" width=350 style="float:left; padding: 10px 10px 50px 0px">
+<img src="/images/Headshot- Juliet Ainsley.jpeg" alt="Professional headshot of Juliet Ainsley" width=350 style="float:right; padding: 10px 10px 50px 0px">
 Juliet is a junior double majoring in Environmental Science and Anthropology: Global Health and Environment. She is interested in how natural sources and pathways of contamination affect human health. In the Mallott Lab, she explores the impact of flooding on the human and soil microbiome as part of the REACH study. Additionally, she works on the REACH study for the Masteller Lab, where she explores soil lead and flooding events. In her free time, she loves to walk outside, play music, and explore St. Louis.
 
 
