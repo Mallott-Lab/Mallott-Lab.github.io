@@ -6,6 +6,10 @@ title: Publications
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
 ### 2024
+PM Finnegan, PA Garber, AC McKenney, JC Bicca-Marques, MF De La Fuente, F Abreu, A Souto, N Schiel, KR Amato, EK Mallott. Group membership, not diet, structures the composition and functional potential of the gut microbiome in a wild primate. *mSphere* 9: e00233-24. [DOI: 10.1128/msphere.00233-24](https://doi.org/10.1128/msphere.00233-24).
+
+TL Whitney, EK Mallott, LO Diakiw, DM Christie, N Ting, KR Amato, SR Tecot, AL Baden. Ecological and genetic variables co-vary with social group identity to shape the gut microbiome of a pair-living primate. *American Journal of Primatology* 86: e23657. [DOI: 10.1002/ajp.23657](https://doi.org/10.1002/ajp.23657).
+
 P Pradhan, EK Mallott, W Shirola, AL Lu, KR Amato. Host-gut microbiota interactions during pregnancy. *Evolution, Medicine, and Public Health* 12: 7-23. [DOI: 10.1093/emph/eoac001](https://doi.org/10.1093/emph/eoac001).
 
 EK Mallott. Disentangling the mechanisms underlying phylosymbiosis in mammals. *Molecular Ecology* 33: e17193 [DOI: 10.1111/mec.17193](https://doi.org/10.1111/mec.17193).
