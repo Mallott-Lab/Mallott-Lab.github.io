@@ -2,7 +2,12 @@
 layout: page
 title: Research
 ---
+<details>
+<summary>
+
 ## How do environmental exposures impact the human gut microbiome?
+</summary>
+
 Neglected tropical diseases were common in the southern United States well into the mid-20th century and may still persist today. In collaboration with the Rural Embodiment and Community Health Study [REACH study](https://reachresearch.org), we are examining how parasite exposure impacts the gut microbiome, growth, and development in children in the rural South and ex-urban areas of the Midwest. We have found that intestinal helminth infection and high levels of intestinal inflammation are not uncommon in this community [1,2] and are currently working to understand bacteria-parasite interactions in this setting.
 
 Additionally, the legacies of heavy industry and agriculture linger in the soils of many U.S. communities. We are examining how small-scale flooding impacts soil lead levels, soil microbial communities, and the human microbiome in these same communities. In collaboration with [Dr. Claire Masteller](https://eeps.wustl.edu/people/claire-masteller), we are integrating finescale flood models with soil and gut microbiome data to interrogate flooding->microbiome->health interactions.
@@ -10,6 +15,7 @@ Additionally, the legacies of heavy industry and agriculture linger in the soils
 [1] T Cepon-Robins, EK Mallott, I Recca, T Gildner. Evidence and effects of neglected parasitic helminth and protist infections among a small preliminary sample of children from rural Mississippi. 2023. *American Journal of Human Biology* 35: e23889. [DOI: 10.1002/ajhb.23889/](https://doi.org/10.1002/ajhb.23889).
 
 [2] T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? 2022. *American Journal of Biological Anthropology* 182: 606-619. [DOI: 10.1002/ajpa.24574/](https://doi.org/10.1002/ajpa.24574).
+</details>
 
 ## Do changes to the gut microbiome during pregnancy and lactation influence energetic status and immune function?
 The gut microbiome compensates for nutritional shortfalls in nonhuman primates [3] and may be one strategy for buffering the energetic stress of pregnancy and lactation in female primates. Our work has shown that the composition of the gut microbiome differs across reproductive states in white-faced capuchins (*Cebus imitator*) [4], and that progesterone may be mediating interactions between reproductive state and the gut microbiome in Phayre's leaf monkeys (*Trachypithecus phayrei*) [5].
