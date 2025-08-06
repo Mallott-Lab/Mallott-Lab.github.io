@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-## How do environmental exposures impact the human gut microbiome?
+### How do environmental exposures impact the human gut microbiome?
 <details>
 <summary>
 More info pathogen exposure, pollutants, flooding, and the gut microbiome.
@@ -17,7 +17,7 @@ Additionally, the legacies of heavy industry and agriculture linger in the soils
 [2] T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? 2022. *American Journal of Biological Anthropology* 182: 606-619. [DOI: 10.1002/ajpa.24574/](https://doi.org/10.1002/ajpa.24574).
 </details>
 
-## Do changes to the gut microbiome during pregnancy and lactation influence energetic status and immune function?
+### Do changes to the gut microbiome during pregnancy and lactation influence energetic status and immune function?
 <details>
 <summary>
 More information on reproduction and the gut microbiome.
@@ -40,7 +40,7 @@ Additionally, we are recruiting a cohort of pregnant people to characterize the 
 [5] EK Mallott, C Borries, A Koenig, KR Amato, A Lu. Reproductive hormones mediate changes in the gut microbiome during pregnancy and lactation in Phayre's leaf monkeys. 2020. *Scientific Reports* 10: 9961. [DOI: 10.1038/s41598-020-6685-2](https://doi.org/10.1038/s41598-020-6685-2).
 </details>
 
-## What are the relative contributions of host genetics and environment to the gut microbiome?
+### What are the relative contributions of host genetics and environment to the gut microbiome?
 <details>
 <summary>
 More information on hybridization and the gut microbiome.
@@ -49,7 +49,7 @@ More information on hybridization and the gut microbiome.
 Natural hybrid zones offer a unique opportunity to disentangle the relative contributions of host genetics and environment to the gut microbiome. We are currently studying the gut microbiomes of hybridizing populations of tufted gray langurs (*Semnopithecus priam*) and purple-faced langurs (*Semnopithecus vetulus*) in Sri Lanka as part of the [Kaludiyapokuna Primate Conservation and Research Center](https://kpcrc.org/). 
 </details>
 
-## How has the metabolic function of the gut microbiome changed across primate evolution?
+### How has the metabolic function of the gut microbiome changed across primate evolution?
 <details>
 <summary>
 More information on the evolutionary trajectory of the primate gut microbiome.
