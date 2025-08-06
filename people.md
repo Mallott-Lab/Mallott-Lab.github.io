@@ -43,4 +43,4 @@ Kaylaa Betts (Undergraduate Researcher, 2022-2023)
 
 Dev Mukundan (Undergraduate Researcher, 2024-2025)
 
-Shan Wang (Undergraduate Researcher, 2023-2024)
+Shan Wang (Harrison D. Stalker Award in 2024, Undergraduate Researcher, 2023-2024) - currently a Medical Assistant at Piedmont Health Services

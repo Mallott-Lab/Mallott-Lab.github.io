@@ -5,7 +5,14 @@ title: Publications
 *Here's a link to Liz's [Google Scholar profile](https://scholar.google.com/citations?user=lfXDRVcAAAAJ&hl=en)*  
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
+### 2025
+BJ Gombash, PA Garber, PM Finnegan, AC McKenney, JC Bicca-Marques, MF De La Fuente, F Abreu, A Souto, N Schiel, KR Amato, EK Mallott. Diet, climatic conditions, and sex affect the mycobiome of wild common marmosets (*Callitrhix jacchus*). *bioRxiv* 2025.07.06.663406. [DOI: 10.1101/2025.07.06.663406](https://doi.org/10.1101/2025.07.06.663406).
+
 ### 2024
+EK Mallott, S Kuthyar, W Lee, D Reiman, H Jiang, S Chitta, EA Waters, B Layden, R Sumagin, LD Manzanares, G-Y Yang, ML Savo Sardaro, S Gray, LE Williams, Y Dai, JP Curley, CR Haney, ER Liechty, CW Kuzawa, KR Amato. The primate gut microbiota contributes to interspecific differences in host metabolism. 2024. *Microbial Genomics* 10:001322. [DOI: 10.1099/mgen.0.001322](https://doi.org/10.1099/mgen.0.001322).
+
+R Salmi, A Lu, AN Hofner, C Madushan, D Thisaru, EK Mallott, R Vandercone. Male infanticide in the Northern purple-faced langur (Semnopithecus vetulus philbricki) in the Kaludiyapukuna Forest Reserve, Sri Lanka. 2024. *American Journal of Primatology* 86:e23693. [DOI: 10.1002/ajp.23693](https://doi.org/10.1002/ajp.23693).
+
 PM Finnegan, PA Garber, AC McKenney, JC Bicca-Marques, MF De La Fuente, F Abreu, A Souto, N Schiel, KR Amato, EK Mallott. Group membership, not diet, structures the composition and functional potential of the gut microbiome in a wild primate. *mSphere* 9: e00233-24. [DOI: 10.1128/msphere.00233-24](https://doi.org/10.1128/msphere.00233-24).
 
 TL Whitney, EK Mallott, LO Diakiw, DM Christie, N Ting, KR Amato, SR Tecot, AL Baden. Ecological and genetic variables co-vary with social group identity to shape the gut microbiome of a pair-living primate. *American Journal of Primatology* 86: e23657. [DOI: 10.1002/ajp.23657](https://doi.org/10.1002/ajp.23657).
