@@ -4,7 +4,7 @@ title:
 ---
 <img src="/images/HorizontalColorGradient.png" alt="Mallott Lab logo">
 
-Welcome to the Mallott Lab @WUSTL! 
+Welcome to the Mallott Lab @WashU! 
 
 ## Research areas
 
