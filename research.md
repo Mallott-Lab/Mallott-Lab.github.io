@@ -5,7 +5,7 @@ title: Research
 ### How do environmental exposures impact the human gut microbiome?
 <details>
 <summary>
-More info pathogen exposure, pollutants, flooding, and the gut microbiome.
+Pathogen exposure, pollutants, flooding, and the gut microbiome.
 </summary>
 <br>
 Neglected tropical diseases were common in the southern United States well into the mid-20th century and may still persist today. In collaboration with the Rural Embodiment and Community Health Study [REACH study](https://reachresearch.org), we are examining how parasite exposure impacts the gut microbiome, growth, and development in children in the rural South and ex-urban areas of the Midwest. We have found that intestinal helminth infection and high levels of intestinal inflammation are not uncommon in this community [1,2] and are currently working to understand bacteria-parasite interactions in this setting.
@@ -20,7 +20,7 @@ Additionally, the legacies of heavy industry and agriculture linger in the soils
 ### Do changes to the gut microbiome during pregnancy and lactation influence energetic status and immune function?
 <details>
 <summary>
-More information on reproduction and the gut microbiome.
+Reproduction and the gut microbiome.
 </summary>
 <br>
 The gut microbiome compensates for nutritional shortfalls in nonhuman primates [3] and may be one strategy for buffering the energetic stress of pregnancy and lactation in female primates. Our work has shown that the composition of the gut microbiome differs across reproductive states in white-faced capuchins (*Cebus imitator*) [4], and that progesterone may be mediating interactions between reproductive state and the gut microbiome in Phayre's leaf monkeys (*Trachypithecus phayrei*) [5].
@@ -43,7 +43,7 @@ Additionally, we are recruiting a cohort of pregnant people to characterize the 
 ### What are the relative contributions of host genetics and environment to the gut microbiome?
 <details>
 <summary>
-More information on hybridization and the gut microbiome.
+Hybridization and the gut microbiome.
 </summary>
 <br>
 Natural hybrid zones offer a unique opportunity to disentangle the relative contributions of host genetics and environment to the gut microbiome. We are currently studying the gut microbiomes of hybridizing populations of tufted gray langurs (*Semnopithecus priam*) and purple-faced langurs (*Semnopithecus vetulus*) in Sri Lanka as part of the [Kaludiyapokuna Primate Conservation and Research Center](https://kpcrc.org/). 
@@ -52,7 +52,7 @@ Natural hybrid zones offer a unique opportunity to disentangle the relative cont
 ### How has the metabolic function of the gut microbiome changed across primate evolution?
 <details>
 <summary>
-More information on the evolutionary trajectory of the primate gut microbiome.
+The evolutionary trajectory of the primate gut microbiome.
 </summary>
 <br>
 The gut microbiome of humans is distinct from that of other primates [6]. As human diets have diverged from those of other primates, the metabolic functions of the gut microbiome may also have shifted. In particular, we are interested in short chain fatty acid (SCFA) metabolism. SCFAs are produced by bacteria in the gut and can be used by the host for energy. Previous computational work showed that butyrate production potential does not differ markedly between humans and nonhuman primates, but that the pathway abundance does differ between humans in industrialized vs. nonindustrialized environments [7]. Additionally, differences in the capacity of the microbiome to produce SCFA may have implications for brain growth and development [8].
