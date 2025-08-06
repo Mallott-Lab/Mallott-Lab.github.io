@@ -2,10 +2,10 @@
 layout: page
 title: Research
 ---
-## How do environmental exposures to pollutants, soil-transmitted helminths parasites and pathogenic bacteria impact the gut microbiome?
+## How do environmental exposures impact the human gut microbiome?
 Neglected tropical diseases were common in the southern United States well into the mid-20th century and may still persist today. In collaboration with the Rural Embodiment and Community Health Study [REACH study](https://reachresearch.org), we are examining how parasite exposure impacts the gut microbiome, growth, and development in children in the rural South and ex-urban areas of the Midwest. We have found that intestinal helminth infection and high levels of intestinal inflammation are not uncommon in this community [1,2] and are currently working to understand bacteria-parasite interactions in this setting.
 
-Additionally, the legacies of heavy industry and agriculture linger in the soils of many U.S. communities. We are examining how small-scale flooding impacts soil lead levels, soil microbial communities, and the human microbiome in these same community. In collaboration with [Dr. Claire Masteller](https://eeps.wustl.edu/people/claire-masteller), we are integrating finescale flood models with soil and gut microbiome data to interrogate flooding->microbiome->health interactions.
+Additionally, the legacies of heavy industry and agriculture linger in the soils of many U.S. communities. We are examining how small-scale flooding impacts soil lead levels, soil microbial communities, and the human microbiome in these same communities. In collaboration with [Dr. Claire Masteller](https://eeps.wustl.edu/people/claire-masteller), we are integrating finescale flood models with soil and gut microbiome data to interrogate flooding->microbiome->health interactions.
 
 [1] T Cepon-Robins, EK Mallott, I Recca, T Gildner. Evidence and effects of neglected parasitic helminth and protist infections among a small preliminary sample of children from rural Mississippi. 2023. *American Journal of Human Biology* 35: e23889. [DOI: 10.1002/ajhb.23889/](https://doi.org/10.1002/ajhb.23889).
 
