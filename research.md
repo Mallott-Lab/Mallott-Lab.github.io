@@ -26,7 +26,7 @@ Additionally, the legacies of heavy industry and agriculture linger in the soils
 Reproduction and the gut microbiome.
 </summary>
 <br>
-The gut microbiome compensates for nutritional shortfalls in nonhuman primates [3] and may be one strategy for buffering the energetic stress of pregnancy and lactation in female primates. Our work has shown that the composition of the gut microbiome differs across reproductive states in white-faced capuchins (*Cebus imitator*) [4], and that progesterone may be mediating interactions between reproductive state and the gut microbiome in Phayre's leaf monkeys (*Trachypithecus phayrei*) [5].
+The gut microbiome compensates for nutritional shortfalls in nonhuman primates [3] and may be one strategy for buffering the energetic stress of pregnancy and lactation in female primates. Our work has shown that the composition of the gut microbiome differs across reproductive states in white-faced capuchins [4], and that progesterone may be mediating interactions between reproductive state and the gut microbiome in Phayre's leaf monkeys [5].
 
 
 <img src="/images/microbe_comp_repro_af_nochloro.jpg" alt="Stacked bar chart showing the differences in the relative abundance of phyla of bacteria between cycling, pregnant, and lactating females" width="350">
@@ -55,7 +55,7 @@ Additionally, we are recruiting a cohort of pregnant people to characterize the 
 Hybridization and the gut microbiome.
 </summary>
 <br>
-Natural hybrid zones offer a unique opportunity to disentangle the relative contributions of host genetics and environment to the gut microbiome. We are currently studying the gut microbiomes of hybridizing populations of tufted gray langurs (*Semnopithecus priam*) and purple-faced langurs (*Semnopithecus vetulus*) in Sri Lanka as part of the [Kaludiyapokuna Primate Conservation and Research Center](https://kpcrc.org/). 
+Natural hybrid zones offer a unique opportunity to disentangle the relative contributions of host genetics and environment to the gut microbiome. We are currently studying the gut microbiomes of hybridizing populations of tufted gray langurs and purple-faced langurs in Sri Lanka as part of the [Kaludiyapokuna Primate Conservation and Research Center](https://kpcrc.org/). 
 </details>
 
 ### How has the metabolic function of the gut microbiome changed across primate evolution?
