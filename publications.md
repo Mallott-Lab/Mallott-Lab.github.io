@@ -11,7 +11,7 @@ BJ Gombash, PA Garber, PM Finnegan, AC McKenney, JC Bicca-Marques, MF De La Fuen
 ### 2024
 EK Mallott, S Kuthyar, W Lee, D Reiman, H Jiang, S Chitta, EA Waters, B Layden, R Sumagin, LD Manzanares, G-Y Yang, ML Savo Sardaro, S Gray, LE Williams, Y Dai, JP Curley, CR Haney, ER Liechty, CW Kuzawa, KR Amato. The primate gut microbiota contributes to interspecific differences in host metabolism. 2024. *Microbial Genomics* 10:001322. [DOI: 10.1099/mgen.0.001322](https://doi.org/10.1099/mgen.0.001322).
 
-R Salmi, A Lu, AN Hofner, C Madushan, D Thisaru, EK Mallott, R Vandercone. Male infanticide in the Northern purple-faced langur (Semnopithecus vetulus philbricki) in the Kaludiyapukuna Forest Reserve, Sri Lanka. 2024. *American Journal of Primatology* 86:e23693. [DOI: 10.1002/ajp.23693](https://doi.org/10.1002/ajp.23693).
+R Salmi, A Lu, AN Hofner, C Madushan, D Thisaru, EK Mallott, R Vandercone. Male infanticide in the Northern purple-faced langur (*Semnopithecus vetulus philbricki*) in the Kaludiyapukuna Forest Reserve, Sri Lanka. 2024. *American Journal of Primatology* 86:e23693. [DOI: 10.1002/ajp.23693](https://doi.org/10.1002/ajp.23693).
 
 PM Finnegan, PA Garber, AC McKenney, JC Bicca-Marques, MF De La Fuente, F Abreu, A Souto, N Schiel, KR Amato, EK Mallott. Group membership, not diet, structures the composition and functional potential of the gut microbiome in a wild primate. *mSphere* 9: e00233-24. [DOI: 10.1128/msphere.00233-24](https://doi.org/10.1128/msphere.00233-24).
 
@@ -22,7 +22,7 @@ P Pradhan, EK Mallott, W Shirola, AL Lu, KR Amato. Host-gut microbiota interacti
 EK Mallott. Disentangling the mechanisms underlying phylosymbiosis in mammals. *Molecular Ecology* 33: e17193 [DOI: 10.1111/mec.17193](https://doi.org/10.1111/mec.17193).
 
 ### 2023
-EK Mallott, AR Sitarik, LD Leve, C Cioffi, CA Camargo Jr, K Hosegawa, SR Bordenstein. Human microbiome variation associated with race and ehtnicity emerges as early as 3 months of age. *PLoS Biology* 21: e3002230. [DOI: 10.1371/journal.pbio.3002230](https://doi.org/10.1371/journal.pbio.3002230).
+EK Mallott, AR Sitarik, LD Leve, C Cioffi, CA Camargo Jr, K Hosegawa, SR Bordenstein. Human microbiome variation associated with race and ethnicity emerges as early as 3 months of age. *PLoS Biology* 21: e3002230. [DOI: 10.1371/journal.pbio.3002230](https://doi.org/10.1371/journal.pbio.3002230).
 
 O Chioma, EK Mallott, B Shah-Gandhi, Z Wiggins, M Langford, A Lancaster, A Gelbard, H Wu, JE Johnson, WR Mason, L Lancaster, EM Wilfong, LJ Crofford, CG Montgomery, L Van Kaer, SR Bordenstein, DC Newcomb, WP Drake. Low gut microbial diversity augments estrogen-mediated pulmonary fibrosis in female-predominant interstitial lung disease. *Cells* 12: 766. [DOI: 10.3390/cells12050766](https://doi.org/10.3390/cells12050766).
 
