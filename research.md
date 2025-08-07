@@ -27,8 +27,8 @@ Reproduction and the gut microbiome.
 </summary>
 <br>
 The gut microbiome compensates for nutritional shortfalls in nonhuman primates [3] and may be one strategy for buffering the energetic stress of pregnancy and lactation in female primates. Our work has shown that the composition of the gut microbiome differs across reproductive states in white-faced capuchins [4], and that progesterone may be mediating interactions between reproductive state and the gut microbiome in Phayre's leaf monkeys [5].
-
-
+<br>
+<br>
 <img src="/images/microbe_comp_repro_af_nochloro.jpg" alt="Stacked bar chart showing the differences in the relative abundance of phyla of bacteria between cycling, pregnant, and lactating females" width="350">
 
 <i>Gut microbiome composition across reproduction [4]</i>
@@ -68,8 +68,8 @@ The evolutionary trajectory of the primate gut microbiome.
 </summary>
 <br>
 The gut microbiome of humans is distinct from that of other primates [6]. As human diets have diverged from those of other primates, the metabolic functions of the gut microbiome may also have shifted. In particular, we are interested in short chain fatty acid (SCFA) metabolism. SCFAs are produced by bacteria in the gut and can be used by the host for energy. Previous computational work showed that butyrate production potential does not differ markedly between humans and nonhuman primates, but that the pathway abundance does differ between humans in industrialized vs. nonindustrialized environments [7]. Additionally, differences in the capacity of the microbiome to produce SCFA may have implications for brain growth and development [8].
-
-
+<br>
+<br>
 <img src="/images/Figure3.jpg" alt="Multiple box plots showing differences in butyrate pathway abundance across primates and within humans" width="700">
 
 <i>Butyrate pathway abundance differs across humans, but not between humans and other primates [6]</i>
