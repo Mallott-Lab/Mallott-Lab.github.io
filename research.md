@@ -14,10 +14,10 @@ Neglected tropical diseases were common in the southern United States well into 
 Additionally, the legacies of heavy industry and agriculture linger in the soils of many U.S. communities. We are examining how small-scale flooding impacts soil lead levels, soil microbial communities, and the human microbiome in these same communities. In collaboration with <a href="https://eeps.wustl.edu/people/claire-masteller">Dr. Claire Masteller</a> (Earth, Environmental, and Planetary Sciences, WashU), we are integrating finescale flood models with soil and gut microbiome data to interrogate flooding->microbiome->health interactions.
 <br>
 <br>
-[1] T Cepon-Robins, EK Mallott, I Recca, T Gildner. Evidence and effects of neglected parasitic helminth and protist infections among a small preliminary sample of children from rural Mississippi. 2023. <i>American Journal of Human Biology</i> 35: e23889. 
+[1] T Cepon-Robins, EK Mallott, I Recca, T Gildner. Evidence and effects of neglected parasitic helminth and protist infections among a small preliminary sample of children from rural Mississippi. 2023. <i>American Journal of Human Biology</i> 35: e23889. <a href="https://doi.org/10.1002/ajhb.23889">DOI: 10.1002/ajhb.23889</a>
 <br>
 <br>
-[2] T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? 2022. <i>American Journal of Biological Anthropology</i> 182: 606-619. 
+[2] T Cepon-Robins, EK Mallott, I Recca, T Gildner. Exploring biocultural determinants of intestinal health: Do resource access and parasite exposure contribute to intestinal inflammation among a preliminary sample of children in rural Mississippi? 2022. <i>American Journal of Biological Anthropology</i> 182: 606-619. <a href="https://doi.org/10.1002/ajpa.24574">DOI: 10.1002/ajpa.24574/</a>
 </details>
 
 ### Do changes to the gut microbiome during pregnancy and lactation influence energetic status and immune function?
@@ -43,13 +43,13 @@ We are also examining nutrient consumption and the gut microbiome differs betwee
 Additionally, we are recruiting a cohort of pregnant people to characterize the changes in the structure and function of the gut microbiome across pregnancy and postpartum. We are interested in how hormones and immunotolerance interact to shape the gut microbiome.
 <br>
 <br>
-[3] EK Mallott, LH Skovmand, PA Garber, KR Amato. The faecal metabolome of black howler monkeys (<i>Alouatta pigra</i>) varies in response to seasonal dietary changes. 2022. <i>Molecular Ecology</i> 31: 4146-4161. 
+[3] EK Mallott, LH Skovmand, PA Garber, KR Amato. The faecal metabolome of black howler monkeys (<i>Alouatta pigra</i>) varies in response to seasonal dietary changes. 2022. <i>Molecular Ecology</i> 31: 4146-4161. <a href="https://doi.org/10.1111/mec.16559">DOI: 10.1111/mec.16559/</a>
 <br>
 <br>
-[4] EK Mallott, KR Amato. The microbial reproductive ecology of white-faced capuchins (<i>Cebus capucinus</i>). 2018. <i>American Journal of Primatology</i> 80: e22896.
+[4] EK Mallott, KR Amato. The microbial reproductive ecology of white-faced capuchins (<i>Cebus capucinus</i>). 2018. <i>American Journal of Primatology</i> 80: e22896. <a href="https://doi.org/10.1002/ajp.22896">DOI: 10.1002/ajp.22896</a>
 <br>
 <br>
-[5] EK Mallott, C Borries, A Koenig, KR Amato, A Lu. Reproductive hormones mediate changes in the gut microbiome during pregnancy and lactation in Phayre's leaf monkeys. 2020. <i>Scientific Reports</i> 10: 9961. 
+[5] EK Mallott, C Borries, A Koenig, KR Amato, A Lu. Reproductive hormones mediate changes in the gut microbiome during pregnancy and lactation in Phayre's leaf monkeys. 2020. <i>Scientific Reports</i> 10: 9961. <a href="https://doi.org/10.1038/s41598-020-6685-2">DOI: 10.1038/s41598-020-6685-2</a>
 </details>
 
 ### What are the relative contributions of host genetics and environment to the gut microbiome?
@@ -78,11 +78,11 @@ The gut microbiome of humans is distinct from that of other primates [6]. As hum
 We are now using multiple molecular and microbiological methods to confirm these patterns in living humans in multiple geographic locations, several species of nonhuman primates, and ancient humans.
 <br>
 <br>
-[6] KR Amato, EK Mallott, JE Lambert, D McDonald, A Gomez, JL Metcalf, NJ Dominy, GAO Britton, RM Stumpf, T Goldberg, SR Leigh, R Knight. The human gut microbiome is more similar to that of Old World monkeys than apes. 2019. <i>Genome Biology</i> 20: 201. 
+[6] KR Amato, EK Mallott, JE Lambert, D McDonald, A Gomez, JL Metcalf, NJ Dominy, GAO Britton, RM Stumpf, T Goldberg, SR Leigh, R Knight. The human gut microbiome is more similar to that of Old World monkeys than apes. 2019. <i>Genome Biology</i> 20: 201. <a href="https://doi.org/10.1186/s13059-019-1807-z">DOI: 10.1186/s13059-019-1807-z</a>
 <br>
 <br>
-[7] EK Mallott, KR Amato. Butyrate-producing pathway abundances are similar in human and nonhuman primate gut microbiomes. 2022. <i>Molecular Biology and Evolution</i> 39: msab279.
+[7] EK Mallott, KR Amato. Butyrate-producing pathway abundances are similar in human and nonhuman primate gut microbiomes. 2022. <i>Molecular Biology and Evolution</i> 39: msab279. <a href="https://doi.org/10.1093/molbev/msab279">DOI: 10.1093/molbev/msab279/</a>
 <br>
 <br>
-[8] EK Mallott, S Kuthyar, W Lee, D Reiman, H Jiang, S Chitta, EA Waters, B Layden, R Sumagin, LD Manzanares, G-Y Yang, ML Savo Sardaro, S Gray, LE Williams, Y Dai, JP Curley, CR Haney, ER Liechty, CW Kuzawa, KR Amato. The primate gut microbiota contributes to interspecific differences in host metabolism. 2024. <i>Microbial Genomics</i> 10:001322.
+[8] EK Mallott, S Kuthyar, W Lee, D Reiman, H Jiang, S Chitta, EA Waters, B Layden, R Sumagin, LD Manzanares, G-Y Yang, ML Savo Sardaro, S Gray, LE Williams, Y Dai, JP Curley, CR Haney, ER Liechty, CW Kuzawa, KR Amato. The primate gut microbiota contributes to interspecific differences in host metabolism. 2024. <i>Microbial Genomics</i> 10:001322. <a href="https://doi.org/10.1099/mgen.0.001322">DOI: 10.1099/mgen.0.001322</a>
 </details>
