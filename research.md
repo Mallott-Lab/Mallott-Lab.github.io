@@ -31,7 +31,7 @@ The gut microbiome compensates for nutritional shortfalls in nonhuman primates [
 
 <img src="/images/microbe_comp_repro_af_nochloro.jpg" alt="Stacked bar chart showing the differences in the relative abundance of phyla of bacteria between cycling, pregnant, and lactating females" width="350">
 
-*Gut microbiome composition across reproduction [4]*
+<i>Gut microbiome composition across reproduction [4]</i>
 <br>
 <br>
 We are currently generating gut metagenomes from Phayre's leaf monkeys to examine finescale variation in function across reproduction to help determine if the compositional changes are increasing microbially-derived energy available to the host.
@@ -72,7 +72,7 @@ The gut microbiome of humans is distinct from that of other primates [6]. As hum
 
 <img src="/images/Figure3.jpg" alt="Multiple box plots showing differences in butyrate pathway abundance across primates and within humans" width="700">
 
-*Butyrate pathway abundance differs across humans, but not between humans and other primates [6]*
+<i>Butyrate pathway abundance differs across humans, but not between humans and other primates [6]</i>
 <br>
 <br>
 We are now using multiple molecular and microbiological methods to confirm these patterns in living humans in multiple geographic locations, several species of nonhuman primates, and ancient humans.
