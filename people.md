@@ -32,8 +32,16 @@ mallott (at) wustl (dot) edu
 | [GitHub](https://github.com/emallott)
 
 ### Bryce Nien (DBBS/PMB Graduate Student)
+<img src="/images/bn.jpg" alt="Picture of Bryce Nien in the snow" width=350 style="float:right; padding: 10px 10px 0px 20px">
+Bryce (Ting-Shuo) is a PhD student in the Plant and Microbial Biosciences program at WashU.  He received his B.S. and M.S. from the Department of Life Science at National Taiwan University, where he studied bacterial interactions using cyanobacteria with different light preferences for photosynthesis. In the Mallott Lab, he is currently investigating the interplay between the gut microbiome, immune function, and hormone levels during pregnancy to better understand maternal-fetal conflict. Outside the lab, Bryce enjoys playing pickleball, watching bison and raccoons in Lone Elk Park, and discovering new restaurants in St. Louis.
+
 
 ### Jennifer Ong (Undergraduate Researcher)
+
+### Mimi Reagler (Undergraduate Researcher)
+<img src="/images/mr.jepg" alt="Picture of Mimi Reagler enjoying a Cardinals game" width=350 style="float:right; padding: 10px 10px 0px 20px">
+Mimi is a sophomore majoring in Biology with a minor in Public Health. She is interested in the role of the animal microbiome in health and disease, especially how much remains unknown about its impact on conservation and veterinary care. In the Mallott Lab, she is beginning work on a project investigating potential links between the vaginal microbiome and reproductive health in African painted dogs. Outside of the lab, Mimi enjoys reading, walking her dog, and playing water polo.
+
 
 ### Taz Rosenfeld (DBBS/EEB Graduate Student) 
 <img src="/images/Taz_thalassinus_LaLibertad_adult.jpg" alt="Picture of Taz holding a stick with a palm pit viper wrapped around it" width=350 style="float:right; padding: 10px 10px 0px 20px">
