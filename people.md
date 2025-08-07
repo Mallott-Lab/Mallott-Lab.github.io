@@ -16,7 +16,11 @@ Juliet is a junior double majoring in Environmental Science and Anthropology: Gl
 <img src="/images/Grathwohl_Kiersten.jpg" alt="Professional headshot of Kiersten Grathwohl" width=350 style="float:right; padding: 10px 10px 0px 20px">
 Kiersten is the Lab Manager for the Mallott Lab. She majored in Animal Science at the University of Illinois at Urbana-Champaign (2018) and has a Master’s degree in Biology from Murray State University (2020). While in school, she completed research projects on anthropogenic disturbance effects on mantled howler monkeys, and completed her thesis research on the effect of invasive species on the stress response in native, freshwater mussels. In the lab, Kiersten maintains lab organization and assists with different research projects. In her free time, she enjoys reading, hiking, and finding new recipes to cook.
 
+
 ### David Hernandez (DBBS/EEB Graduate Student)
+<img src="20240915_143339.jpg" alt="Professional headshot of David Hernandez" width=350 style="float:right; padding: 10px 10px 0px 20px">
+David Hernandez is a PhD Student in the Ecology and Evolutionary Biology Program. He has a B.S in Zoology from Southern Illinois University in Carbondale IL where he studied the population genetics of ants across the Mississippi River. His research looks at how microplastic contaminants affect the host-associated microbial communities in freshwater fish populations and what roles they play in resilience, behavior, and predator-prey interactions. A St Louis native, he enjoys exploring the city for great venues for dancing, eating new foods, and watching live entertainment.
+
 
 ### Leena Kwak (Undergraduate Researcher)
 
