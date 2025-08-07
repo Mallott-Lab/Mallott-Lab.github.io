@@ -19,14 +19,14 @@ Kiersten is the Lab Manager for the Mallott Lab. She majored in Animal Science a
 
 ### David Hernandez (DBBS/EEB Graduate Student)
 <img src="/images/20240915_143339.jpg" alt="Professional headshot of David Hernandez" width=350 style="float:right; padding: 10px 10px 0px 20px">
-David Hernandez is a PhD Student in the Ecology and Evolutionary Biology Program. He has a B.S in Zoology from Southern Illinois University in Carbondale IL where he studied the population genetics of ants across the Mississippi River. His research looks at how microplastic contaminants affect the host-associated microbial communities in freshwater fish populations and what roles they play in resilience, behavior, and predator-prey interactions. A St Louis native, he enjoys exploring the city for great venues for dancing, eating new foods, and watching live entertainment.
+David Hernandez is a PhD Student in the Ecology and Evolutionary Biology Program. He has a B.S in Zoology from Southern Illinois University in Carbondale IL where he studied the population genetics of ants across the Mississippi River. His research looks at how microplastic contaminants affect the host-associated microbial communities in freshwater fish populations and what roles they play in resilience, behavior, and predator-prey interactions. A St. Louis native, he enjoys exploring the city for great venues for dancing, eating new foods, and watching live entertainment.
 
 
 ### Leena Kwak (Undergraduate Researcher)
 
 ### Dr. Liz Mallott (PI)
 <img src="/images/lizphoto.jpg" alt="Picture of Liz Mallott watching monkeys in a forest" width=350 style="float:right; padding: 10px 10px 0px 20px">
-Liz is interested in understanding host-associated microbiome variation within and between species. Liz majored in both Biology and Music at Grinnell College (2006) and has a PhD in Anthropology from the University of Illinois at Urbana-Champaign (2016). She was a postdoc at Northwestern University, Dartmouth College, and Vanderbilt University before starting at WUSTL in 2022.  
+Liz is interested in understanding host-associated microbiome variation within and between species. Liz majored in both Biology and Music at Grinnell College (2006) and has a PhD in Anthropology from the University of Illinois at Urbana-Champaign (2016). She was a postdoc at Northwestern University, Dartmouth College, and Vanderbilt University before starting at WUSTL in 2022. When not in the lab, Liz spends most of her time hanging out with daughter and partner, gardening, cooking, visiting the elephants and monkeys at the zoo, hiking, and discovering new playgrounds.
 mallott (at) wustl (dot) edu
 | [CV](data/CV-Mallott.pdf)
 | [GitHub](https://github.com/emallott)
@@ -43,9 +43,9 @@ Bryce (Ting-Shuo) is a PhD student in the Plant and Microbial Biosciences progra
 Mimi is a sophomore majoring in Biology with a minor in Public Health. She is interested in the role of the animal microbiome in health and disease, especially how much remains unknown about its impact on conservation and veterinary care. In the Mallott Lab, she is beginning work on a project investigating potential links between the vaginal microbiome and reproductive health in African painted dogs. Outside of the lab, Mimi enjoys reading, walking her dog, and playing water polo.
 
 
-### Taz Rosenfeld (DBBS/EEB Graduate Student) 
-<img src="/images/Taz_thalassinus_LaLibertad_adult.jpg" alt="Picture of Taz holding a stick with a palm pit viper wrapped around it" width=350 style="float:right; padding: 10px 10px 0px 20px">
-Taz Rosenfeld is a PhD student in the Ecology and Evolutionary Biology program at WashU. In a microbiome context, he is interested in how symbionts might enable adaptive radiation in their hosts by providing access to new ecological resources; more broadly, he is fascinated by the interplay of contingency and determinism in shaping the evolutionary fates of lineages. In the Mallott Lab, he is currently studying the microbiomes of Caribbean anole species to assess the degree to which the parallel evolutionary patterns exhibited in lizard hosts extends to their symbiont communities. Taz received his bachelor’s from Yale University in Earth and Planetary Sciences and his master’s from Harvard University in Science Education. He splits his free time between chasing down the world’s amphibian and reptile species and singing/screaming in his environmental emo band, Half Inch Hero.
+### Taz Ezra (DBBS/EEB Graduate Student) 
+<img src="/images/Taz_Anolis_kathydayae.jpg" alt="Picture of Taz holding an anole" width=350 style="float:right; padding: 10px 10px 0px 20px">
+Tasman “Taz” Ezra is a PhD student in the Ecology and Evolutionary Biology program at WashU where he is co-affiliated with the laboratories of Dr. Liz Mallott and Dr. Jonathan Losos. He compares the microbiomes of lizard adaptive radiations in the Caribbean with the goal of teasing apart the roles of contingent and deterministic processes in the assembly of ecological communities over evolutionary timescales and probing ways in which symbionts may promote adaptive diversification. Taz received his bachelor’s from Yale University in Earth and Planetary Sciences and his master’s from Harvard University in Science Education, while serving as Founder and Executive Director of HonduHerp, a Honduran biodiversity conservation nonprofit. He splits his free time between chasing down the world’s amphibian and reptile species and singing/screaming in his environmental emo band, Half Inch Hero.
 
 ## Lab Alumni
 
