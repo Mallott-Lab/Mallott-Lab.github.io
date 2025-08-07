@@ -18,7 +18,7 @@ Kiersten is the Lab Manager for the Mallott Lab. She majored in Animal Science a
 
 
 ### David Hernandez (DBBS/EEB Graduate Student)
-<img src="20240915_143339.jpg" alt="Professional headshot of David Hernandez" width=350 style="float:right; padding: 10px 10px 0px 20px">
+<img src="/images/20240915_143339.jpg" alt="Professional headshot of David Hernandez" width=350 style="float:right; padding: 10px 10px 0px 20px">
 David Hernandez is a PhD Student in the Ecology and Evolutionary Biology Program. He has a B.S in Zoology from Southern Illinois University in Carbondale IL where he studied the population genetics of ants across the Mississippi River. His research looks at how microplastic contaminants affect the host-associated microbial communities in freshwater fish populations and what roles they play in resilience, behavior, and predator-prey interactions. A St Louis native, he enjoys exploring the city for great venues for dancing, eating new foods, and watching live entertainment.
 
 
