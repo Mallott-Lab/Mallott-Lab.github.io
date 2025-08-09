@@ -34,6 +34,7 @@ David Hernandez is a PhD Student in the Ecology and Evolutionary Biology Program
 Leena is a senior double majoring in Anthropology: Global Health & Environment and Biology with a minor in Spanish. She is broadly interested in the various ways that social and environmental factors can contribute to health disparities. In the Mallott Lab as part of the REACH study, she is investigating the effects of social determinants of health on the gut microbiome, with a specific interest on the possible impact of food insecurity on gut microbial diversity and composition. In her free time, Leena enjoys reading, playing tennis, and going on walks/runs in Forest Park.
 <br>
 <br>
+<br>
 
 ### Ingrid Lyons-Carlson (Undergraduate Researcher)
 <img src="/images/image001.jpg" alt="Picture of Ingrid Lyons-Carlson in the woods" width=350 style="float:right; padding: 10px 10px 0px 20px">
