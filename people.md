@@ -27,16 +27,14 @@ Kiersten is the Lab Manager for the Mallott Lab. She majored in Animal Science a
 <img src="/images/20240915_143339.jpg" alt="Professional headshot of David Hernandez" width=350 style="float:right; padding: 10px 10px 0px 20px">
 David Hernandez is a PhD Student in the Ecology and Evolutionary Biology Program. He has a B.S in Zoology from Southern Illinois University in Carbondale IL where he studied the population genetics of ants across the Mississippi River. His research looks at how microplastic contaminants affect the host-associated microbial communities in freshwater fish populations and what roles they play in resilience, behavior, and predator-prey interactions. A St. Louis native, he enjoys exploring the city for great venues for dancing, eating new foods, and watching live entertainment.
 <br>
-<br>
 
 ### Leena Kwak (Undergraduate Researcher)
 <img src="/images/IMG_2635 3.jpg" alt="Picture of Leena Kwak in front of a lake" width=350 style="float:right; padding: 10px 10px 0px 20px">
 Leena is a senior double majoring in Anthropology: Global Health & Environment and Biology with a minor in Spanish. She is broadly interested in the various ways that social and environmental factors can contribute to health disparities. In the Mallott Lab as part of the REACH study, she is investigating the effects of social determinants of health on the gut microbiome, with a specific interest on the possible impact of food insecurity on gut microbial diversity and composition. In her free time, Leena enjoys reading, playing tennis, and going on walks/runs in Forest Park.
 <br>
 <br>
-<br>
 
-### Ingrid Lyons-Carlson
+### Ingrid Lyons-Carlson (Undergraduate Researcher)
 <img src="/images/image001.jpg" alt="Picture of Ingrid Lyons-Carlson in the woods" width=350 style="float:right; padding: 10px 10px 0px 20px">
 Ingrid is an undergraduate sophomore majoring in Biology on the Ecology and Evolutionary Biology track with a minor in Studio Art. She is interested in ecology and conservation biology’s role in climate justice. In the lab, she is starting to research the evolutionary history of lizard microbiomes in the Caribbean. In her free time, she writes to international pen pals, radio DJs, backpacks, and draws.
 <br>
@@ -57,7 +55,6 @@ Bryce (Ting-Shuo) is a PhD student in the Plant and Microbial Biosciences progra
 <br>
 
 ### Jennifer Ong (Undergraduate Researcher)
-<br>
 
 ### Mimi Reagler (Undergraduate Researcher)
 <img src="/images/mr.jpeg" alt="Picture of Mimi Reagler enjoying a Cardinals game" width=350 style="float:right; padding: 10px 10px 0px 20px">
