@@ -18,6 +18,6 @@ Prospective graduate students should apply to one of WashU's Division of Biology
 
 ### Prospective Postdoctoral Scientists
 
-I am currently recruiting a postdoc (jointly advised with [Theresa Gildner](https://www.reachresearch.org)) to work on an NSF-funded project related to flooding, pathogen exposure, and human microbiome variation. You can learn more about the position and apply here: (https://apply.interfolio.com/175110).
+I am currently recruiting a postdoc (jointly advised with [Theresa Gildner](https://www.reachresearch.org)) to work on an NSF-funded project related to flooding, pathogen exposure, and human microbiome variation. You can learn more about the position and apply here: [https://apply.interfolio.com/175110](https://apply.interfolio.com/175110).
 
 I am also happy to discuss applying for fellowship opportunities with prospective postdocs. Please email me with your CV, a brief statement of the proposed research, and details about the fellowship application (name, link to the opportunity, due dates).
