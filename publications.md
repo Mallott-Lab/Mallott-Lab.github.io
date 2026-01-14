@@ -5,6 +5,9 @@ title: Publications
 *Here's a link to Liz's [Google Scholar profile](https://scholar.google.com/citations?user=lfXDRVcAAAAJ&hl=en)*  
 *Feel free to email me if you would like a pdf of any of the articles below.*
 
+### 2026
+AR DeCasien, J Aronoff, EK Mallott, S Kuthyar, Sriram Chitta, B Layden, ML Savo Sardaro, S Gray, LE Williams, E Liechty, W Lee, JP Curley, CW Kuzawa, KR Amato. Primate gut microbiota induce evolutionarily salient changes in mouse neurodevelopment. *Proceedings of the National Academy of Sciences* 123:e2426232122. [DOI: 10.1073/pnas.2426232122](https:doi.org/10.1073/pnas.2426232122). 
+
 ### 2025
 BJ Gombash, PA Garber, PM Finnegan, AC McKenney, JC Bicca-Marques, MF De La Fuente, F Abreu, A Souto, N Schiel, KR Amato, EK Mallott. Diet, climatic conditions, and sex affect the mycobiome of wild common marmosets (*Callitrhix jacchus*). *bioRxiv* 2025.07.06.663406. [DOI: 10.1101/2025.07.06.663406](https://doi.org/10.1101/2025.07.06.663406).
 
