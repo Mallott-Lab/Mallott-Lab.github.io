@@ -24,6 +24,8 @@ Ingrid is an undergraduate sophomore majoring in Biology on the Ecology and Evol
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### Dr. Liz Mallott (PI)
 <img src="/images/lizphoto.jpg" alt="Picture of Liz Mallott watching monkeys in a forest" width=350 style="float:right; padding: 10px 10px 0px 20px">
@@ -41,6 +43,10 @@ Eloise is a sophomore studying Microbiology and Public Health & Society on a pre
 ### Nazhin Nikaeen (DBBS/PMB Graduate Student)
 <img src="/images/NazhinHeadShot.jpg" alt="Professional headshot of Nazhin Nikaeen" width=350 style="float:right; padding: 10px 10px 0px 20px">
 Nazhin Nikaeen is a PhD student in the Plant and Microbial Biosciences. Her research focuses on the impact of flooding on the soil and human gut microbiome in rural communities. Nazhin received her bachelor's in computational biology from UT Austin, where studied host-microbe interactions in fruit flies and honeybees. Outside of research, she enjoys cooking, painting, and calisthenics.
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
