@@ -19,7 +19,7 @@ David Hernandez is a PhD Student in the Ecology and Evolutionary Biology Program
 <br>
 
 ### Ingrid Lyons-Carlson (Undergraduate Researcher)
-<img src="/images/image001.jpg" alt="Picture of Ingrid Lyons-Carlson in the woods" width=350 style="float:right; padding: 10px 10px 0px 20px">
+<img src="/images/ingrid_headshot.jpeg" alt="Picture of Ingrid Lyons-Carlson" width=350 style="float:right; padding: 10px 10px 0px 20px">
 Ingrid is an undergraduate sophomore majoring in Biology on the Ecology and Evolutionary Biology track with a minor in Studio Art. She is interested in ecology and conservation biology’s role in climate justice. In the lab, she is starting to research the evolutionary history of lizard microbiomes in the Caribbean. In her free time, she writes to international pen pals, radio DJs, backpacks, and draws.
 <br>
 <br>
@@ -41,6 +41,8 @@ Eloise is a sophomore studying Microbiology and Public Health & Society on a pre
 ### Nazhin Nikaeen (DBBS/PMB Graduate Student)
 <img src="/images/NazhinHeadShot.jpg" alt="Professional headshot of Nazhin Nikaeen" width=350 style="float:right; padding: 10px 10px 0px 20px">
 Nazhin Nikaeen is a PhD student in the Plant and Microbial Biosciences. Her research focuses on the impact of flooding on the soil and human gut microbiome in rural communities. Nazhin received her bachelor's in computational biology from UT Austin, where studied host-microbe interactions in fruit flies and honeybees. Outside of research, she enjoys cooking, painting, and calisthenics.
+<br>
+<br>
 <br>
 
 ### Bryce Nien (DBBS/PMB Graduate Student)
