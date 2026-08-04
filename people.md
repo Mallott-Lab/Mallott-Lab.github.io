@@ -71,11 +71,11 @@ Mimi is a sophomore majoring in Biology with a minor in Public Health. She is in
 
 Dr. Carlye Chaney (Postdoctoral Fellow, 2023-2025) - now an Assistant Professor in Anthropology at the University of Missouri
 
-Kaylaa Betts (Undergraduate Researcher, 2022-2023)
+Kaylaa Betts (Undergraduate Researcher, 2022-2023) - now a Production Chemist at MilliporeSigma
 
 Shan Wang (Harrison D. Stalker Award in 2024, Undergraduate Researcher, 2023-2024) - currently a Medical Assistant at Piedmont Health Services
 
-Dev Mukundan (Undergraduate Researcher, 2024-2025)
+Dev Mukundan (Undergraduate Researcher, 2024-2025) - now a Clinical Research Coordinator at Dana-Farber Cancer Institute
 
 Jennifer Ong (Undergraduate Researcher, 2022-2026)
 
