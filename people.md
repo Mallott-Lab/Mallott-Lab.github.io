@@ -9,6 +9,9 @@ title: People
 Tasman “Taz” Ezra is a PhD candidate co-affiliated with the laboratories of Dr. Liz Mallott and Dr. Jonathan Losos. By studying the microbiomes of repeated adaptive radiations of Caribbean lizards, he seeks to understand the rules that govern the assembly and evolution of microbial communities. Taz is also the founder and Executive Director of HonduHerp, a nonprofit dedicated to the conservation of Honduran reptiles, amphibians, and their habitats. He received his bachelor’s from Yale University in Earth and Planetary Sciences and his master’s from Harvard University in Science Education. If not in the field or lab, you’ll probably hear him singing and screaming in the environmental emo band, Half Inch Hero.
 <br>
 
+### Dr. Anecia Gentles (Postdoctoral Research Associate))
+<br> 
+
 ### Alea Hanley (EEB Graduate Student)
 <br>
 
