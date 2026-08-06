@@ -8,7 +8,7 @@ title: Publications
 ### 2026
 AR DeCasien, J Aronoff, EK Mallott, S Kuthyar, Sriram Chitta, B Layden, ML Savo Sardaro, S Gray, LE Williams, E Liechty, W Lee, JP Curley, CW Kuzawa, KR Amato. Primate gut microbiota induce evolutionarily salient changes in mouse neurodevelopment. *Proceedings of the National Academy of Sciences* 123:e2426232122. [DOI: 10.1073/pnas.2426232122](https:doi.org/10.1073/pnas.2426232122). 
 
-C Chaney, J Ong, L Kwak, K Grathwohl, S Wang, K Betts, JA Beauregard, KL Nemeth, S Waimon#, A Zhang, AB Shing, A Samsonov, M Pfaff Nash, B Ragunanthan, SS Urlacher, TJ Cepon-Robins, TE Gildner, EK Mallott. Pathways from inequality to health: How social determinants of health shape the gut microbiome in low-resource U.S. communities. 2026. *medRxiv* 2026.07.20.26358501. [DOI: 10.64898/2026.07.20.26358501](https:doi.org/10.64898/2026.07.20.26358501). 
+C Chaney, J Ong, L Kwak, K Grathwohl, S Wang, K Betts, JA Beauregard, KL Nemeth, S Waimon#, A Zhang, AB Shing, A Samsonov, M Pfaff Nash, B Ragunanthan, SS Urlacher, TJ Cepon-Robins, TE Gildner, EK Mallott. Pathways from inequality to health: How social determinants of health shape the gut microbiome in low-resource U.S. communities. 2026. *medRxiv* 2026.07.20.26358501. [DOI: 10.64898/2026.07.20.26358501](https:doi.org/10.64898/2026.07.20.26358501).  
 
 C Manthey, TE Gildner, SS Urlacher, EK Mallott, C Chaney, A Zhang, S Waimon, KL Nemeth, JA Beauregard, A Shing, A Samsonov, M Pfaff-Nash, TJ Cepon-Robins. Embodied immunity: Place, inequality, and reproductive outcomes in two US communities. 2026. *American Journal of Human Biology* 38: e70256. [DOI: 10.1002/ajhb.70256](https://doi.org/10.1002/ajhb.70256).
 
