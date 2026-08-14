@@ -68,6 +68,8 @@ Mimi is a sophomore majoring in Biology with a minor in Public Health. She is in
 <br>
 
 ### Maya Vitale (Lab Manager)
+<img src="/images/mrIMG_8667.jpeg" alt="Professional picture of Maya Vitale" width=350 style="float:right; padding: 10px 10px 0px 20px">
+Maya is the Lab Manager for the Mallott Lab. She majored in Biological Sciences at Lindenwood University in Saint Charles, MO (2023) and has a master's degree in animal science from the University of Illinois at Urbana-Champaign (2026). While in graduate school, her thesis research consisted of identifying the epigenetic changes occurring in Holstein cow embryos prior to fertilization caused by heat stress. In the lab, Maya maintains lab organization and assists with different research projects. In her free time, she enjoys cooking, reading, and seeing comedy shows! 
 <br>
 
 ## Lab Alumni
