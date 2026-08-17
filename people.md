@@ -66,10 +66,16 @@ Bryce (Ting-Shuo) is a PhD student in the Plant and Microbial Biosciences progra
 <img src="/images/mr.jpeg" alt="Picture of Mimi Reagler enjoying a Cardinals game" width=350 style="float:right; padding: 10px 10px 0px 20px">
 Mimi is a sophomore majoring in Biology with a minor in Public Health. She is interested in the role of the animal microbiome in health and disease, especially how much remains unknown about its impact on conservation and veterinary care. In the Mallott Lab, she is beginning work on a project investigating potential links between the vaginal microbiome and reproductive health in African painted dogs. Outside of the lab, Mimi enjoys reading, walking her dog, and playing water polo.
 <br>
+<br>
 
 ### Maya Vitale (Lab Manager)
 <img src="/images/IMG_8667.jpeg" alt="Professional picture of Maya Vitale" width=350 style="float:right; padding: 10px 10px 0px 20px">
 Maya is the Lab Manager for the Mallott Lab. She majored in Biological Sciences at Lindenwood University in Saint Charles, MO (2023) and has a master's degree in animal science from the University of Illinois at Urbana-Champaign (2026). While in graduate school, her thesis research consisted of identifying the epigenetic changes occurring in Holstein cow embryos prior to fertilization caused by heat stress. In the lab, Maya maintains lab organization and assists with different research projects. In her free time, she enjoys cooking, reading, and seeing comedy shows! 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ## Lab Alumni
